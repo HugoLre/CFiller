@@ -1,6 +1,6 @@
 # CFiller
 A min-max AI written in C that plays the filler game against you.
-#### Context
+### Context
 I was bored in a car with a computer and an **annoying** friend that was beating me at the filler game on iMessage.
 ## Game Rules
 ![](https://github.com/Hugola/file_upload/blob/master/CFiller/game.png?raw=true)
